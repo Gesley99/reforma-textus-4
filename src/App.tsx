@@ -20,7 +20,7 @@ const App = () => (
         href="https://wa.me/61996212692"
         target="_blank"
         rel="noreferrer"
-        className="group fixed right-4 top-1/2 -translate-y-1/2 z-50 overflow-hidden rounded-full shadow-glow bg-[hsl(var(--secondary))] text-secondary-foreground h-12 w-12 transition-all duration-300 ease-out hover:w-80 flex items-center justify-end"
+        className="group fixed right-4 top-1/2 -translate-y-1/2 z-50 overflow-hidden rounded-full shadow-glow bg-[hsl(var(--secondary))] text-secondary-foreground h-12 w-12 transition-all duration-300 ease-out hover:w-96 flex items-center justify-end"
         aria-label="Fale no WhatsApp"
         title="Fale no WhatsApp"
       >
